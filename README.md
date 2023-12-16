@@ -2,3 +2,6 @@ PONG GAME STM32 ILI9341 SPI JOYSTICK
 
 ![Screenshot_3](https://github.com/offpic/PONG-GAME-STM32-ILI9341-SPI-JOYSTICK/assets/31142397/5b03e1d2-75a2-4f78-8833-72ca64730bfc)
 
+![1](https://github.com/offpic/PONG-GAME-STM32-ILI9341-SPI-JOYSTICK/assets/31142397/03b1e9c7-e83f-4766-97a5-fb8b9c1a01eb)
+
+
